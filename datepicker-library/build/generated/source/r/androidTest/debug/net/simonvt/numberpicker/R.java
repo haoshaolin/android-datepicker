@@ -8,17 +8,17 @@ package net.simonvt.numberpicker;
 
 public final class R {
 	public static final class attr {
-		public static final int internalLayout = 0x7f010011;
-		public static final int internalMaxHeight = 0x7f01000e;
-		public static final int internalMaxWidth = 0x7f010010;
-		public static final int internalMinHeight = 0x7f01000d;
-		public static final int internalMinWidth = 0x7f01000f;
+		public static final int internalLayout = 0x7f010012;
+		public static final int internalMaxHeight = 0x7f01000f;
+		public static final int internalMaxWidth = 0x7f010011;
+		public static final int internalMinHeight = 0x7f01000e;
+		public static final int internalMinWidth = 0x7f010010;
 		public static final int numberPickerStyle = 0x7f010001;
-		public static final int selectionDivider = 0x7f01000a;
-		public static final int selectionDividerHeight = 0x7f01000b;
-		public static final int selectionDividersDistance = 0x7f01000c;
-		public static final int solidColor = 0x7f010009;
-		public static final int virtualButtonPressedDrawable = 0x7f010012;
+		public static final int selectionDivider = 0x7f01000b;
+		public static final int selectionDividerHeight = 0x7f01000c;
+		public static final int selectionDividersDistance = 0x7f01000d;
+		public static final int solidColor = 0x7f01000a;
+		public static final int virtualButtonPressedDrawable = 0x7f010013;
 	}
 	public static final class color {
 		public static final int transparent = 0x7f040000;
@@ -51,7 +51,7 @@ public final class R {
 		public static final int NPWidget_NumberPicker = 0x7f070003;
 	}
 	public static final class styleable {
-		public static final int[] NumberPicker = { 0x7f010009, 0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012 };
+		public static final int[] NumberPicker = { 0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 0x7f010013 };
 		public static final int NumberPicker_internalLayout = 8;
 		public static final int NumberPicker_internalMaxHeight = 5;
 		public static final int NumberPicker_internalMaxWidth = 7;

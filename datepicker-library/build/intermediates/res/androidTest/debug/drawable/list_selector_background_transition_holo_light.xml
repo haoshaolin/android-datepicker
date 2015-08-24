@@ -18,4 +18,4 @@
     <item android:drawable="@drawable/list_pressed_holo_light"  />
     <item android:drawable="@drawable/list_longpressed_holo"  />
 </transition>
-<!-- From: file:/Users/nius/dev/treehole/treehole-mobile/numberpicker-library/src/main/res/drawable/list_selector_background_transition_holo_light.xml --><!-- From: file:/Users/nius/dev/treehole/treehole-mobile/datepicker-library/build/intermediates/exploded-aar/treehole-mobile/numberpicker-library/unspecified/res/drawable/list_selector_background_transition_holo_light.xml -->
+<!-- From: file:/Users/nius/dev/datepicker/numberpicker-library/src/main/res/drawable/list_selector_background_transition_holo_light.xml --><!-- From: file:/Users/nius/dev/datepicker/datepicker-library/build/intermediates/exploded-aar/datepicker/numberpicker-library/unspecified/res/drawable/list_selector_background_transition_holo_light.xml -->

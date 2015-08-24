@@ -3,6 +3,6 @@
 /.idea/
 *.iml
 .DS_Store
-/build
+build
 /captures
 proguard.out
